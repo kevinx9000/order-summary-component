@@ -37,7 +37,7 @@ body {
     min-height: 550px;
     border-radius: 20px;
     overflow: hidden;
-    background-color: var(--very-pale-blue);
+    background-color: white;
     display: flex;
     flex-direction: column;
 }
@@ -80,7 +80,7 @@ body {
     gap: 20px;
     border-radius: 10px;
     padding: 12px 12px;
-    background-color: hsl(230, 60%, 96%);
+    background-color: var(--very-pale-blue);
 }
 
 .price-container span.bold {
